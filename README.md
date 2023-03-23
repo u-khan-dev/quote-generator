@@ -1,4 +1,4 @@
-# quote-generator
+# JavaScript-Based Quote Generator
 Create a Quote Generator Website using JavaScript
 
 Accompanies my YouTube video, "Create a Quote Generator Website using JavaScript."
